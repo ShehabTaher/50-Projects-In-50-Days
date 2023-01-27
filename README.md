@@ -3,4 +3,5 @@
 
 <p>Day 1 : Expanding Slider</p>
 <p>Day 2 : Progress Steps</p>
+<p>Day 3 : Rotating Navigation</p>
 
